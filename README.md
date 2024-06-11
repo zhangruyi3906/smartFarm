@@ -18,7 +18,8 @@
 ![3ffc500a3b850cfa463895956d00dbae](https://s2.loli.net/2024/06/10/UKZsNp8Li1OETQk.jpg)
 项目所用到的开发板
 a9开发板
-![IMG_20240607_111715(1)](D:\C盘其他文件\C盘下载/IMG_20240607_111715(1).jpg)
+![image](https://github.com/zhangruyi3906/smartFarm/assets/107252212/e6c329d4-4802-444d-b5a7-ebb4608d3e95)
+
 
 m0开发板
 ![IMG_20240607_111706](https://s2.loli.net/2024/06/10/VWjt3SxqbHEa1r6.jpg)
