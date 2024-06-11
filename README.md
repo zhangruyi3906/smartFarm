@@ -16,8 +16,11 @@
 系统架构图：
 ![19d9834caf66116c94d331e1a1d442a2](https://s2.loli.net/2024/06/05/mRWMDOykG3oZ1Tz.png)
 ![3ffc500a3b850cfa463895956d00dbae](https://s2.loli.net/2024/06/10/UKZsNp8Li1OETQk.jpg)
+
+
 项目所用到的开发板
 a9开发板
+
 ![image](https://github.com/zhangruyi3906/smartFarm/assets/107252212/e6c329d4-4802-444d-b5a7-ebb4608d3e95)
 
 
